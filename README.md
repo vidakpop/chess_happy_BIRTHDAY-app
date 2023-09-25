@@ -1,3 +1,3 @@
 # chess_happy_BIRTHDAY-app
-      This an android application created from this website https://onna-chess-peshy-imelda.pages.dev/
-      
+This is an android application created as a replica of this website
+      https://onna-chess-peshy-imelda.pages.dev/
